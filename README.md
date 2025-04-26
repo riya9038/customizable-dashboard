@@ -7,7 +7,7 @@ A modern, dynamic, and customizable dashboard built with **React**, **Redux**, *
 ## 📸 Demo
 
 > _Hosted Application Link:_ [Live Demo](#)  
-> _GitHub Repository Link:_ [Private Repo](#)
+> _GitHub Repository Link:_ https://github.com/riya9038/customizable-dashboard(#)
 
 ---
 
