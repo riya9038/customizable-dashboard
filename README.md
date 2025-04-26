@@ -7,6 +7,7 @@ A modern, dynamic, and customizable dashboard built with **React**, **Redux**, *
 ## 📸 Demo
 
 > _Hosted Application Link:_ https://widget-management.netlify.app/
+
 > _GitHub Repository Link:_ https://github.com/riya9038/customizable-dashboard
 
 ---
