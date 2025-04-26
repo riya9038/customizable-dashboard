@@ -1,7 +1,3 @@
-Of course! 🚀 Here's a **professional and impressive** `README.md` file you can directly put into your project 👇🏻
-
----
-
 # 🌟 Customizable React Dashboard
 
 A modern, dynamic, and customizable dashboard built with **React**, **Redux**, **React DnD**, **React-Resizable**, and **Tailwind CSS** — designed to provide users a fully personalized experience with add, remove, drag, resize, and persist widget capabilities.
