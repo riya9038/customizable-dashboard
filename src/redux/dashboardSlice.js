@@ -27,7 +27,7 @@ const widgetState = [
   },
   {
     id: "4",
-    type: "stock",
+    type: "stocks",
     x: 960,
     y: 0,
     width: 300,
