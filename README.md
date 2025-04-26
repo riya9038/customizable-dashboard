@@ -1,6 +1,6 @@
 # 🌟 Customizable React Dashboard
 
-A modern, dynamic, and customizable dashboard built with **React**, **Redux**, **React DnD**, **React-Resizable**, and **Tailwind CSS** — designed to provide users a fully personalized experience with add, remove, drag, resize, and persist widget capabilities.
+A modern, dynamic, and customizable dashboard built with **React**, **Redux**, **React DnD**, **React-Resizable**, **React Charts**, and **Tailwind CSS** — designed to provide users a fully personalized experience with add, remove, drag, resize, and persist widget capabilities.
 
 ---
 
@@ -35,6 +35,7 @@ A modern, dynamic, and customizable dashboard built with **React**, **Redux**, *
 | Redux           | State management for widget list and layout |
 | React DnD       | Drag-and-drop functionality                 |
 | React Resizable | Widget resizing support                     |
+| React Recharts  | React Charts for data widgets
 | Tailwind CSS    | Styling and responsive design               |
 | LocalStorage    | Persistence of dashboard layout             |
 
@@ -100,7 +101,7 @@ src/
 - Widgets are stored in a Redux slice `widgetsSlice.js`.
 - Dragging and resizing actions update the Redux state.
 - The updated widget list is saved to **LocalStorage** on every change.
-- On app load, the dashboard reads from LocalStorage to restore the last layout.
+- On app load, the dashboard reads from LocalStorage to restore the last layout. 
 
 ---
 
